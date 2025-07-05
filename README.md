@@ -1,0 +1,1 @@
+This project features an interactive AI-powered chatbot designed to answer questions about the Human Pneumovirus (HPMV). Leveraging the capabilities of domain-specific language models and retrieval-augmented generation (RAG), the chatbot provides accurate, up-to-date, and context-aware responses sour
