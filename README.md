@@ -1,1 +1,1 @@
-This project features an interactive AI-powered chatbot designed to answer questions about the  Human Metapneumovirus (hMPV). Leveraging the capabilities of LLM and retrieval-augmented generation (RAG), the chatbot provides accurate, up-to-date, and context-aware responses on Human 
+This project features an interactive AI-powered chatbot designed to answer questions about the  Human Metapneumovirus (hMPV). Leveraging the capabilities of LLM and retrieval-augmented generation (RAG), the chatbot provides accurate, up-to-date, and context-aware responses 
